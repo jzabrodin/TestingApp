@@ -3,7 +3,7 @@
 php artisan migrate
 создаст таблицы необходимые для работы
 
-php artisan db:ceed
+php artisan db:seed
 Заполнит базу вопросами и результатами прохождения
 
 php artisan storage:link
